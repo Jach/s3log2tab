@@ -1,4 +1,4 @@
-# clf2tab
+# s3log2tab
 
 Convert logs in [S3 Log Format](http://docs.amazonwebservices.com/AmazonS3/latest/dev/LogFormat.html) to tab delimited for use with unix text processing tools
 
